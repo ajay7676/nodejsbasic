@@ -1,0 +1,1 @@
+console.log("clgggg script js file")
